@@ -1,5 +1,6 @@
 # DesafioShadowCompasso
 Aplicação bootstrap para listagem de conteúdo json
+
 ***O projeto deverá ser publicado em um repositório público no github.***
 
 
