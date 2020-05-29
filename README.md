@@ -17,7 +17,7 @@ A aplicação será um sistema utilizando Bootstrap para listar os últimos 10 g
     - Deverá ser usado a fonte (Montserrat)[https://fonts.google.com/specimen/Montserrat] para a aplicação;
     - O conteúdo do cabeçalho da aplicação deve possuir um título para sua aplicação, centralizado com fonte 18px;
     - Deve haver uma listagem de 3 cards por linha, onde deverão estar centralizado no corpo da página.
-    - Usar conjunto de cores que tenham sinergia entre si. [Sujestão](https://www.materialpalette.com/)
+    - Usar conjunto de cores que tenham sinergia entre si. [Sugestão](https://www.materialpalette.com/)
   * Deve conter um README contendo instruções para executar o projeto e uma descrição bem fundamentada das escolhas feitas dentro do projeto, além de seguir os padrões de README. Consultar [exemplo](https://github.com/microsoft/vscode). 
   * Será levado em consideração a clareza do código e boas práticas.
   * FUNDAMENTAL: utilizar commits com a identificação clara do que está sendo enviado para o repositório. Commitar a **Cada** novo recurso ou fragmento realizado!
